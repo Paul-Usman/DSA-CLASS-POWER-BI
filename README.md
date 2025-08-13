@@ -19,24 +19,23 @@ This is where I  input all I have learnt in DSA CLASS Power Bi sessions.
 This project aims to reveal the reason for attrition in this company. In other words, it intends to find out why people leave the company and not stay to work for years. By analysing this report one can stall or prevent people from leaving companies without them really contributing to its growth. 
 
 
-Data Sources
+## Data Sources
 The data for this analysis was shared in the class in a folder title HR data. An excel file.
 Tools Used
 Microsoft Excel(for gathering the data)
 Power BI(for cleaning, building, manipulation of the data and creating a report)
 
-Data Cleaning and Preparation/ETL(Extract, Transform, Load)
+# Data Cleaning and Preparation/ETL(Extract, Transform, Load)
 In the initial stage of data cleaning and preparation , we perform the following functions
 
 Data loading and inspection
 Handling missing variables
 Data Cleaning and formatting
-Creation of new columns for analysis of the attrition and age category.
+- a. Creation of new columns for analysis of the attrition and age category.
 
 
 Explorative Data Analysis.
 
-age group and gender?
 What is the attrition by the education field of the employees?
 What is the highest monthly income by gender and marital status(married, single and divorced)?
 What is the attrition by marital status?
