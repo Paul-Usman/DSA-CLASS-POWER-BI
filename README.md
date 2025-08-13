@@ -28,13 +28,13 @@ Power BI(for cleaning, building, manipulation of the data and creating a report)
 # Data Cleaning and Preparation/ETL(Extract, Transform, Load)
 In the initial stage of data cleaning and preparation , we perform the following functions
 
-Data loading and inspection
-Handling missing variables
-Data Cleaning and formatting
-- a. Creation of new columns for analysis of the attrition and age category.
+- Data loading and inspection
+- Handling missing variables
+- Data Cleaning and formatting
+1. Creation of new columns for analysis of the attrition and age category.
 
 
-Explorative Data Analysis.
+# Explorative Data Analysis.
 
 What is the attrition by the education field of the employees?
 What is the highest monthly income by gender and marital status(married, single and divorced)?
