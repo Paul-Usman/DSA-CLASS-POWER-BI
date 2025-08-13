@@ -14,3 +14,63 @@ This is where I  input all I have learnt in DSA CLASS Power Bi sessions.
 - [Recommendations](#Recommendations)
 - [Limitations](#Limitations)
 - [References](#References)
+
+# Project Overview:
+This project aims to reveal the reason for attrition in this company. In other words, it intends to find out why people leave the company and not stay to work for years. By analysing this report one can stall or prevent people from leaving companies without them really contributing to its growth. 
+
+
+Data Sources
+The data for this analysis was shared in the class in a folder title HR data. An excel file.
+Tools Used
+Microsoft Excel(for gathering the data)
+Power BI(for cleaning, building, manipulation of the data and creating a report)
+
+Data Cleaning and Preparation/ETL(Extract, Transform, Load)
+In the initial stage of data cleaning and preparation , we perform the following functions
+
+Data loading and inspection
+Handling missing variables
+Data Cleaning and formatting
+Creation of new columns for analysis of the attrition and age category.
+
+
+Explorative Data Analysis.
+
+age group and gender?
+What is the attrition by the education field of the employees?
+What is the highest monthly income by gender and marital status(married, single and divorced)?
+What is the attrition by marital status?
+What is the total number of employees?
+What is the total number of current employees?
+What is the attrition count(number of people who left the company)?
+What is the percentage rate of attrition?
+What is the average age?
+What is the number of attrition by department?
+What is the attrition by gender and age group
+
+Data Analysis
+
+This is where various visuals were used to display the above  questions.
+E.g cards, pie chart and barchart 
+
+
+
+Results/Findings
+From the analysis, we were able to deduce the following:
+There is high attrition rate among the males as compared to the females
+There is high attrition rate among the young men between the age of 25-34
+There is high attrition among the single men as compared to the married and divorced
+The married men earn more income each month as compared to the single and divorced men.
+
+
+
+Recommendation
+From the generated report, the following are possible steps the company should make to tackle this anomaly:
+
+Married men should not earn more than single and divorced men.
+There should be a standard amount of money to pay people who have spent time with the company which would be of course higher than those just joining.
+The company could also hire on contract basis if it wants to employ young men or women. 
+
+Limitations
+
+References
