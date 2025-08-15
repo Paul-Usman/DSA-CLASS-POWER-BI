@@ -47,14 +47,14 @@ What is the average age?
 What is the number of attrition by department?
 What is the attrition by gender and age group
 
-Data Analysis
+## Data Analysis
 
 This is where various visuals were used to display the above  questions.
 E.g cards, pie chart and barchart 
 
 
 
-Results/Findings
+##  Results/Findings
 From the analysis, we were able to deduce the following:
 There is high attrition rate among the males as compared to the females
 There is high attrition rate among the young men between the age of 25-34
@@ -63,13 +63,13 @@ The married men earn more income each month as compared to the single and divorc
 
 
 
-Recommendation
+## Recommendation
 From the generated report, the following are possible steps the company should make to tackle this anomaly:
 
 Married men should not earn more than single and divorced men.
 There should be a standard amount of money to pay people who have spent time with the company which would be of course higher than those just joining.
 The company could also hire on contract basis if it wants to employ young men or women. 
 
-Limitations
+## Limitations
 
-References
+## References
