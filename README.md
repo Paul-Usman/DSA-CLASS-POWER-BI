@@ -31,7 +31,9 @@ In the initial stage of data cleaning and preparation , we perform the following
 - Data loading and inspection
 - Handling missing variables
 - Data Cleaning and formatting
-- 1. Creation of new columns for analysis of the attrition and age category.
+  - Creation of new columns for analysis of:
+     1. the attrition and;
+      2. age category.
 
 
 # Explorative Data Analysis.
