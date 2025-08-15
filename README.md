@@ -31,21 +31,21 @@ In the initial stage of data cleaning and preparation , we perform the following
 - Data loading and inspection
 - Handling missing variables
 - Data Cleaning and formatting
-1. Creation of new columns for analysis of the attrition and age category.
+- 1. Creation of new columns for analysis of the attrition and age category.
 
 
 # Explorative Data Analysis.
 
-What is the attrition by the education field of the employees?
-What is the highest monthly income by gender and marital status(married, single and divorced)?
-What is the attrition by marital status?
-What is the total number of employees?
-What is the total number of current employees?
-What is the attrition count(number of people who left the company)?
-What is the percentage rate of attrition?
-What is the average age?
-What is the number of attrition by department?
-What is the attrition by gender and age group
+1. What is the attrition by the education field of the employees?
+2. What is the highest monthly income by gender and marital status(married, single and divorced)?
+3. What is the attrition by marital status?
+4. What is the total number of employees?
+5. What is the total number of current employees?
+6. What is the attrition count(number of people who left the company)?
+7. What is the percentage rate of attrition?
+8. What is the average age?
+9. What is the number of attrition by department?
+10. What is the attrition by gender and age group
 
 ## Data Analysis
 
