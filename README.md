@@ -55,6 +55,11 @@ This is where various visuals were used to display the above  questions.
 E.g cards, pie chart and barchart 
 
 
+<img width="623" height="325" alt="ATTRITION 1" src="https://github.com/user-attachments/assets/1180f024-2523-464b-89ca-78ee1efc06a4" />
+
+
+<img width="235" height="200" alt="ATTRITION 2" src="https://github.com/user-attachments/assets/c0c1ec98-48d5-4f1c-bad3-17b5e2694426" />
+<img width="630" height="520" alt="ATTRITION 3" src="https://github.com/user-attachments/assets/3a189a43-db23-4163-b840-e614699f12b7" />
 
 ##  Results/Findings
 From the analysis, we were able to deduce the following:
